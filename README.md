@@ -9,4 +9,4 @@
 >
 > `Tested on iPhone X with iOS 12.0`
 
-<img src="https://github.com/Avisto/CS193P/blob/master/Screenshots/Concentration%20game%20(portrait%20orientation).png" alt="drawing" width="250"/><img src="https://github.com/Avisto/CS193P/blob/master/Screenshots/Concentration%20game%20(landscape%20orientation).png" alt="drawing" width="450"/>
+<img src="https://github.com/Avisto/CS193P/blob/master/Fall%202017-18/Screenshots/Concentration%20game%20(portrait%20orientation).png" alt="drawing" width="250"/><img src="https://github.com/Avisto/CS193P/blob/master/Fall%202017-18/Screenshots/Concentration%20game%20(landscape%20orientation).png" alt="drawing" width="450"/>
